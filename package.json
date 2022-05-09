@@ -1,0 +1,20 @@
+{
+  "name": "noderegform",
+  "version": "1.0.0",
+  "description": "this is tech servey registration form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "your",
+    "tech",
+    "choice"
+  ],
+  "author": "SoundCoder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
